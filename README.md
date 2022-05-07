@@ -1,2 +1,2 @@
 # blog-app
-Blog Website
+OK Blog App is a code to setup a Blog Website
